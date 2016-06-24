@@ -1,0 +1,97 @@
+#header{
+height:5%;
+width:100%;
+background-color:black;
+color:white;
+font-size:15px;
+padding:20px 5px 5px 5px;
+font-family:Arial;
+position:fixed;
+display:block;
+}
+#headabout{
+	text-decoration:none;
+	color:white;
+}
+a:hover{
+	font-weight:bold;
+}
+#getstarted{
+	text-decoration:none;
+}
+#main{
+background:url(http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg) no-repeat center center fixed;
+
+  background-size: cover;
+height:80%;
+width:100%;
+margin-top:-50px;
+
+
+}
+#weare{
+	font-size:50px;
+	text-align:center;
+	padding:200px 50px 50px 70px;
+	font-weight:bold;
+	
+}
+#started{
+	height:40px;
+	width:200px;
+	background-color:black;
+	color:white;
+	font-weight:bold;
+	font-size:20px;
+	margin-left:570px;
+	text-align:center;
+	padding-top:10px;
+	padding-right:10px;
+	padding-left:10px;
+	padding-bottom:-20px;	
+}
+
+#details{
+height:60%;
+width:100%;
+display:block;
+margin-top:100px;
+margin-left:400px;
+}
+table{
+	border-spacing:15px;
+	border-collapse: separate;
+}
+#detailtbl{
+	font-size:20px;
+}
+.images{
+	height:50px;
+	width:50px;
+}
+
+.learnmore{
+	height:40px;
+	width:200px;
+	border:2px solid black;
+	text-align:center;
+	padding-top:10px;
+	font-size:15px;
+	
+}
+.learnsite{
+	text-decoration:none;
+	color:black;
+}
+#footer{
+height:10%;
+width:100%;
+background-color:black;
+display:block;
+}
+#copyrt{
+	font-size:10px;
+color:white;
+	padding-top:20px;
+	padding-left:10px;
+}
